@@ -25,7 +25,7 @@ An intelligent file organization system that uses machine learning to automatica
 
 1. Clone the repository:
 ```bash
-[git clone https://github.com/yourusername/ai-file-organizer.git](https://github.com/SrinivasPaiM/AI-file-sorter-V2)
+[git clone https://github.com/tanisha231105/AI-File-Sorter]
 ```
 
 2. Install dependencies:
